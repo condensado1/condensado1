@@ -19,7 +19,7 @@ const condensado1 = {
 };
 ```
 
-Soy un estudiante apasionado por la tecnología, actualmente cursando Ingeniería en Informática.  Me encuentro en un largo camino de aprendizaje, explorando diferentes áreas y trabajando en proyectos académicos que me ayudan a crecer profesionalmente.
+Soy un estudiante apasionado por la tecnología, actualmente cursando Ingeniería en Informática. Me encuentro en un largo camino de aprendizaje, explorando diferentes áreas y trabajando en proyectos académicos que me ayudan a crecer profesionalmente.
 
 ---
 
@@ -30,7 +30,7 @@ Soy un estudiante apasionado por la tecnología, actualmente cursando Ingenierí
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84? style=for-the-badge&logo=android-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </div>
 
@@ -97,7 +97,7 @@ Estoy enfocado en desarrollar conocimientos en múltiples áreas para convertirm
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel. app/api?username=condensado1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=condensado1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=condensado1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
 
@@ -117,7 +117,7 @@ Estoy enfocado en desarrollar conocimientos en múltiples áreas para convertirm
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
 </div>
 
-Actualmente trabajo en **proyectos académicos** que me permiten aplicar los conocimientos adquiridos y seguir aprendiendo.  Cada proyecto es una oportunidad para mejorar mis habilidades y enfrentar nuevos desafíos. 
+Actualmente trabajo en **proyectos académicos** que me permiten aplicar los conocimientos adquiridos y seguir aprendiendo. Cada proyecto es una oportunidad para mejorar mis habilidades y enfrentar nuevos desafíos.
 
 ```python
 while student:
@@ -140,7 +140,7 @@ while student:
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectar con diferentes personas</b> así que si quieres saludar, <b>¡estaré feliz de conocerte! </b> 😊</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conectar con diferentes personas</b> así que si quieres saludar, <b>¡estaré feliz de conocerte!</b> 😊</em>
 </div>
 
 ---
