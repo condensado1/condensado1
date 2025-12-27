@@ -61,7 +61,7 @@ Soy un estudiante apasionado por la tecnología, actualmente cursando Ingenierí
     <td><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></td>
   </tr>
   <tr>
-    <td>🔄</td>
+    <td>✅</td>
     <td><b>Intro to GitHub</b></td>
     <td><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></td>
   </tr>
