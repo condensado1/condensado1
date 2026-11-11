@@ -65,13 +65,18 @@ Soy un estudiante apasionado por la tecnología, actualmente cursando Ingenierí
     <td><b>Intro to GitHub</b></td>
     <td><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></td>
   </tr>
+  <tr>
+    <td>✅</td>
+    <td><b>GitHub Fundations</b></td>
+    <td><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></td>
+  </tr>
 </table>
 
 <div align="center">
   
 ![GitHub Education](https://img.shields.io/badge/GitHub_Education-181717?style=for-the-badge&logo=github&logoColor=white)
-![Courses Completed](https://img.shields.io/badge/Cursos_Completados-2-success?style=for-the-badge)
-![In Progress](https://img.shields.io/badge/En_Progreso-1-yellow?style=for-the-badge)
+![Courses Completed](https://img.shields.io/badge/Cursos_Completados-4-success?style=for-the-badge)
+![In Progress](https://img.shields.io/badge/En_Progreso-0-yellow?style=for-the-badge)
 
 </div>
 
@@ -95,13 +100,6 @@ Estoy enfocado en desarrollar conocimientos en múltiples áreas para convertirm
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=condensado1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=condensado1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-
-</div>
 
 <div align="center">
   
@@ -134,6 +132,8 @@ while student:
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/condensado1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-benjamin-andrade-campos-a42053264/)
+
 
 </div>
 
@@ -146,8 +146,6 @@ while student:
 ---
 
 <div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/condensado1/count.svg)
   
   <p>⭐️ From <a href="https://github.com/condensado1">condensado1</a></p>
   
